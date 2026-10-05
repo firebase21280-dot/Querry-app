@@ -8,7 +8,7 @@ Open:  http://127.0.0.1:5000        (user)
        http://127.0.0.1:5000/owner  (owner)
 
 Set your own secrets before going live:
-    export OWNER_PASSWORD="your-strong-password"
+    export OWNER_PASSWORD="Elepay"
     export SECRET_KEY="any-long-random-string"
 """
 import os, sqlite3, uuid
